@@ -21,7 +21,7 @@
        src="https://user-images.githubusercontent.com/60448833/96334840-64ea5500-107c-11eb-9f5f-730aae9728c0.png"> <br />
   </a>
   Hello :wave: <b> I am Nanyonjo Irene</b> 👨‍🚀 <br />
-  I live in Kampala. Uganda :tr: <br />
+  I live in Kampala. Uganda <br />
   I am currently a <b> a mentor at Microverse</b> <a class="my-school" title="My remote software development school and workplace" href="https://microverse.org"
                   target="_blank">@Microverse</a> 🌐 <br />
   :heavy_plus_sign: <b>Helping local businesses to run their data on the cloud</b> :cloud:
